@@ -1,25 +1,41 @@
-🧠 MindEase – Mental Wellness Platform
+# 🧠 MindEase - Mental Health & Wellness Platform
 
-MindEase is a mental health and wellness web app designed to help users manage stress, track mood, and access personalized wellness tools.
-The platform provides a calm and intuitive interface focused on self-improvement, positivity, and emotional awareness.
+<div align="center">
 
-🚀 Features
+  ![MindEase Banner](https://via.placeholder.com/1200x300?text=MindEase+Website+Banner)
+  ### A comprehensive platform for mental wellness, resources, and support.
 
-🧘‍♀️ Mood Tracking – Log your emotions and view insights over time
+  ## [🚀 Visit Live Website](https://mindease-website.vercel.app)
+  
+  *(Note: Since the backend is hosted locally on my machine, some features like login or AI chat may require the local server to be running)*
 
-💬 Chat Support – Connect with wellness experts or AI-based support
+</div>
 
-📖 Daily Journal – Write reflections and maintain your mental diary
+---
 
-🎧 Relaxation Tools – Access calming sounds, quotes, and activities
+## 📖 About The Project
 
-🌙 Dark/Light Mode – Comfortable viewing experience for all users
+**MindEase** is a full-stack web application designed to provide accessible mental health resources. Whether you need to chat with an AI support assistant, play relaxing games to de-stress, or assess your mental well-being, MindEase is here to help.
 
-🛠️ Tech Stack
+## ✨ Key Features
 
-Frontend: React.js (CRA)
-Styling: Tailwind CSS / CSS Modules
-State Management: Context API / Redux
-Routing: React Router
-Build Tool: Craco
-Hosting: GitHub Pages / Vercel (optional)
+* **🤖 AI Chatbot:** An intelligent assistant ready to listen and provide support.
+* **🎮 Relaxing Games:** Built-in games designed to reduce anxiety and improve focus.
+* **📝 Mental Health Check:** Interactive forms to assess your current mental state.
+* **📚 Resources:** Curated articles, hotlines, and contacts for professional help.
+* **🤝 Support Page:** Direct access to various support channels.
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+* React.js (v18)
+* Tailwind CSS (Styling)
+* Radix UI (Components)
+* Lucide React (Icons)
+* Vercel (Deployment)
+
+**Backend:**
+* Python
+* MongoDB (Database)
+
+---
