@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![MindEase Banner](https://via.placeholder.com/1200x300?text=MindEase+Website+Banner)
+ 
   ### A comprehensive platform for mental wellness, resources, and support.
 
   ## [🚀 Visit Live Website](https://mindease-website.vercel.app)
